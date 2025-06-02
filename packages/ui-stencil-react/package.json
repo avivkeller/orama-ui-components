@@ -29,10 +29,10 @@
     "test": "node ./__tests__/react-library.test.js"
   },
   "dependencies": {
-    "@orama/wc-components": "workspace:*",
-    "@stencil/react-output-target": "^0.8.2"
+    "@orama/wc-components": "workspace:*"
   },
   "devDependencies": {
+    "@stencil/react-output-target": "^0.8.2",
     "@types/node": "^20",
     "@types/react": "^19",
     "react": "^19",
